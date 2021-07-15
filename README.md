@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Mango's github stats](https://github-readme-stats.vercel.app/api?username=mango-lzp)](https://github.com/mango-lzp/github-readme-stats)
+
 <!--
 **mango-lzp/mango-lzp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
